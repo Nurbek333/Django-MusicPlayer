@@ -51,7 +51,7 @@
 ⚡️ Add/Remove songs to/from favourites.\
 ⚡️ Scroll through recently played/viewed songs.\
 ⚡️ Explore songs through your personalized playlist and favourites.\
-⚡️ User authentication: Users can sign up, log in, and log out.\
+⚡️ User authentication: Users can sign up, log in, and log out.
 
 
 ---
